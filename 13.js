@@ -16,8 +16,7 @@ console.log(precioProducto);
 
 
 // Destructuring de objetos 
-const  {precio} = producto;
-const {nombreProducto} = producto;
+const  {precio, nombreProducto} = producto;
 
 console.log(precio);
 console.log(nombrProducto);

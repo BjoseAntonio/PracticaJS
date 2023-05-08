@@ -21,7 +21,7 @@ if(efectivo > carrito){
 
 
 //Mas de una condicion
-const rol = 'Editor'
+const rol = 'Editor' 
 
 if(rol === 'Administrador'){
     console.log('Acceso al sistema');

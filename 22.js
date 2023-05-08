@@ -6,7 +6,7 @@
 // console.log(resultado);
 
 
-let total = 0;
+let total = 0; 
 
 function agrgarCarrito(precio){
     return total += precio;

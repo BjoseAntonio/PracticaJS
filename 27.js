@@ -12,7 +12,7 @@ switch(metodoPago){
         break;
     case 'efectivo':
         console.log('Pago en efectivo');
-        break;
+        break; 
     default:
         console.log('Un no has pagado');
         break;

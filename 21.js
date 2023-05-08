@@ -13,7 +13,7 @@ const sumar2 = function(n1,n2){
 }
 sumar2(1,3);
 
-function sumar(num1 = 0, num2 = 0){ //variables son parametros por defaul
+function sumar(num1 = 0, num2 = 0){ //variables son parametros por defaul 
     console.log(num1 + num2);
 }
 sumar(2,1);//valores o argumenos

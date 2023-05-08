@@ -7,7 +7,7 @@ sumar2(1,3);
 
 // Sintaxis de Arrow function 
 const sumar = (numero,numero2) => console.log(numero + numero2);
-sumar(5,5);
+sumar(5,5); 
 
 const aprendiendo = tecnologia => console.log(`Aprendiendo de ${tecnologia}`)
 aprendiendo('JavaScript')

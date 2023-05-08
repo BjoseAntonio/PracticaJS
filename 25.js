@@ -36,7 +36,7 @@ meses.forEach( mes => {
    
    //Filter obtencion del valor depende de la condicion
    res3 = carrito.filter(producto => producto.precio > 390 );
-   console.log(res3);
+   console.log(res3); 
 
    res4 = carrito.filter(producto => producto.nombre !== 'Celular');
    console.log(res4);

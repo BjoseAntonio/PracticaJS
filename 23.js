@@ -16,7 +16,7 @@ reproductor.borrarCancion = function(id){
     console.log(`Borrando cancion ${id}`)
 }
 
-reproductor.reproducir('Mi mayor anhelo - Banda MS');
+reproductor.reproducir('Mi mayor anhelo - Banda MS'); 
 reproductor.pausar();
 reproductor.borrarCancion('El hijo mayor - junir H');
 reproductor.crearPlaylist('Musica belica');

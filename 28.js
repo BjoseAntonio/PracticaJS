@@ -7,7 +7,7 @@
 //     }
 //  }
 
-//While loop
+
 const carrito = [
     {nombre: "Monitor 20 pulgadas", precio:300},
     {nombre: "Television", precio: 500},
@@ -16,8 +16,13 @@ const carrito = [
     {nombre: "Mac", precio: 450}
 ];
 
-for(let e = 0; e < carrito.length; e++){
-    console.long(e);
+for(let indice = 0; indice < carrito.length; indice++){
+    console.log(carrito[indice].nombre);
 }
+
+
+
+//While loop
+
 
 // Do while loop 

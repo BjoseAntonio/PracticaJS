@@ -16,13 +16,29 @@ const carrito = [
     {nombre: "Mac", precio: 450}
 ];
 
-for(let indice = 0; indice < carrito.length; indice++){
-    console.log(carrito[indice].nombre);
-}
-
+//  for(let indice = 0; indice < carrito.length; indice++){
+//     console.log(carrito[indice].nombre);
+//  }
 
 
 //While loop
+// let i = 0;
 
+// while(i < carrito.length){
+//     // console.log(i);
+
+//     // if(i % 2 === 0){
+//     //     console.log(`El numero ${i} es par`);
+//     // }
+
+//     console.log(carrito[i].nombre);
+//     i++;
+// }
 
 // Do while loop 
+let i = 100;
+
+do{
+ console.log(i);
+    i++;
+}while(i < 10)

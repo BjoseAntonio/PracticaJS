@@ -36,7 +36,7 @@ const carrito = [
 // }
 
 // Do while loop 
-let i = 100;
+let i = 10;
 
 do{
  console.log(i);

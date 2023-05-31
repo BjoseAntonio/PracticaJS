@@ -1,5 +1,6 @@
 // variables con let
 // palabra reservada let
+//
 let productos = "audifonos gamer";
 
 let disponibles;

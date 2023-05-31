@@ -8,4 +8,5 @@ console.log(producto2);
 console.log(producto.indexOf('monitor')) //si la posicion imprimida es -1 entonces no existe la busqueda
 
 //include retorna true o false si encuentra el valor
+//
 console.log(producto.includes('monitor'));

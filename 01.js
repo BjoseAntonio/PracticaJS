@@ -12,6 +12,7 @@ var producto1 = "computadora",
 // iniciar un valor
 // var 1Variable; no puede iniciar con numero
 // var -variable; no permitido
+//
 var _siPermitido;
 
 

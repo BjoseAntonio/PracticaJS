@@ -1,5 +1,6 @@
 //variables con const
 // palabra reservada const
+//
 const producto = "audifonos gamer";
 
 // const disponibles; es necesario asiganar valor con const a diferencia de let y var

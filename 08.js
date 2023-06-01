@@ -6,7 +6,7 @@ resultado =(600+ 600) * 1.05; //descuento
 console.log(resultado)
 
 //incrementos
-
+// 
 let puntaje = 10;
 puntaje++;
 

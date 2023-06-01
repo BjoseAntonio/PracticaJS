@@ -1,4 +1,5 @@
 // Objetos
+// 
 
 // variables o declaraciones
 const nombreProdcuto = "Monitor 20 pulgadas";

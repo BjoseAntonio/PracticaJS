@@ -7,4 +7,5 @@ const email = 'js@gmail.com';
 console.log('nombre: '+nombre+' Email: '+email);
 
 //Template Strings - String Literal
+// 
 console.log(`Nombre cliente: ${nombre} \nEmail: ${email}`);

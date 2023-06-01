@@ -7,6 +7,7 @@ const producto = {
 }
 // console.log(producto.precio);
 // console.log(producto["precio"]);
+// 
 
 // agregar o quitar propiedad
 producto.imagen = "imagen.jpg"; //agregar

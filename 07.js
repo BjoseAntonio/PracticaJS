@@ -1,6 +1,6 @@
 //objeto math
 let resultado;
-
+// 
 resultado = Math.PI;
 resultado = Math.round(1.9);//redondea
 resultado = Math.ceil(2.1);//redondea hacia arriba
